@@ -2,7 +2,7 @@
 
 int sub(int a, int b)
 {
-   a=a+13
-   b=b+15
+   a=a*5
+   b=b*6
    return a+b;
 }
