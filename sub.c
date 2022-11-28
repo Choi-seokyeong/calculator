@@ -2,5 +2,7 @@
 
 int sub(int a, int b)
 {
-    return a-b;
+   a=a*2
+   b=b*3 
+   return a-b;
 }
